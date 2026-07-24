@@ -25,4 +25,4 @@ When preparing for drum sessions or tutoring students, managing tracks by tempo 
 1. Make sure you have the .NET SDK installed.
 2. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/drum-repertoire-assistant.git](https://github.com/YOUR-USERNAME/drum-repertoire-assistant.git)
+   git clone [https://github.com/YOUR-USERNAME/drum-repertoire-assistant.git](https://github.com/RhastGele/drum-repertoire-assistant.git)

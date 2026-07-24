@@ -1,0 +1,2 @@
+C:\Users\yigit\OneDrive\Masaüstü\Drum\bin\Release\net10.0\win-x64\publish\Drum.pdb
+C:\Users\yigit\OneDrive\Masaüstü\Drum\bin\Release\net10.0\win-x64\publish\Drum.exe

@@ -1,0 +1,14 @@
+C:\Users\yigit\OneDrive\Masaüstü\Drum\bin\Debug\net10.0\Drum.exe
+C:\Users\yigit\OneDrive\Masaüstü\Drum\bin\Debug\net10.0\Drum.deps.json
+C:\Users\yigit\OneDrive\Masaüstü\Drum\bin\Debug\net10.0\Drum.runtimeconfig.json
+C:\Users\yigit\OneDrive\Masaüstü\Drum\bin\Debug\net10.0\Drum.dll
+C:\Users\yigit\OneDrive\Masaüstü\Drum\bin\Debug\net10.0\Drum.pdb
+C:\Users\yigit\OneDrive\Masaüstü\Drum\obj\Debug\net10.0\Drum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigit\OneDrive\Masaüstü\Drum\obj\Debug\net10.0\Drum.AssemblyInfoInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\Drum\obj\Debug\net10.0\Drum.AssemblyInfo.cs
+C:\Users\yigit\OneDrive\Masaüstü\Drum\obj\Debug\net10.0\Drum.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\Drum\obj\Debug\net10.0\Drum.dll
+C:\Users\yigit\OneDrive\Masaüstü\Drum\obj\Debug\net10.0\refint\Drum.dll
+C:\Users\yigit\OneDrive\Masaüstü\Drum\obj\Debug\net10.0\Drum.pdb
+C:\Users\yigit\OneDrive\Masaüstü\Drum\obj\Debug\net10.0\Drum.genruntimeconfig.cache
+C:\Users\yigit\OneDrive\Masaüstü\Drum\obj\Debug\net10.0\ref\Drum.dll
